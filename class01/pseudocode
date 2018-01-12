@@ -1,0 +1,6 @@
+when button for color x is pressed
+    check if light is that color
+    if it is
+        turn light off
+    else
+        turn light that color
